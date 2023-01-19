@@ -1,0 +1,261 @@
+[
+    {
+        "type": "Movie",
+        "name": "The Shawshank Redemption",
+        "genres": [
+            "Drama"
+        ],
+        "releaseDate": "1994-09-23T00:00:00.000+00:00",
+        "director": "Frank Darabont",
+        "writers": [
+            "Stephen King",
+            "Frank Darabont"
+        ],
+        "stars": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTYxOTYyMzE3NV5BMl5BanBnXkFtZTcwOTMxNDY3Mw@@._V1_.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "Paul",
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "releaseDate": "2011-02-18T00:00:00.000+00:00",
+        "director": "Greg Mottola",
+        "writers": [
+            "Simon Pegg",
+            "Nick Frost"
+        ],
+        "stars": [
+            "Simon Pegg",
+            "Nick Frost",
+            "Seth Rogen"
+        ],
+        "description": "Two British comic-book geeks traveling across the U.S. encounter an alien outside Area 51.",
+        "imgUrl": "https://images.sr.roku.com/idType/roku/context/global/id/0104892ef320590db37aeb766bdf22c8/images/gracenote/assets/p8371978_v_v12_ak.jpg/magic/396x0/filters:quality(70)"
+    },
+    {
+        "type": "Movie",
+        "name": "The Matrix",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "releaseDate": "1999-03-31T00:00:00.000+00:00",
+        "director": "Lana Wachowski",
+        "writers": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "stars": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "Ant-Man",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "releaseDate": "2015-07-14T02:00:00.000+00:00",
+        "director": "Peyton Reed",
+        "writers": [
+            "Edgar Wright",
+            "Joe Cornish",
+            "Adam McKay",
+            "Paul Rudd"
+        ],
+        "stars": [
+            "Paul Rudd",
+            "Michael Douglas",
+            "Corey Stoll"
+        ],
+        "description": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats.",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Ant-Man_%28film%29_poster.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "The Fast and the Furious",
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "releaseDate": "2001-06-22T00:00:00.000+00:00",
+        "director": "Rob Cohen",
+        "writers": [
+            "Gary Scott Thompson",
+            "Ken Li"
+        ],
+        "stars": [
+            "Vin Diesel",
+            "Paul Walker",
+            "Jordana Brewster"
+        ],
+        "description": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "Ant-Man and the Wasp: Quantumania",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "releaseDate": "2022-02-17T00:00:00.000+00:00",
+        "director": "Peyton Reed",
+        "writers": [
+            "Zak Penn",
+            "Andrew Barrer",
+            "Gabriel Ferrari"
+        ],
+        "stars": [
+            "Paul Rudd",
+            "Evangeline Lilly",
+            "Kathryn Newton"
+        ],
+        "description": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man and the Wasp teaming up with the new character of Cassie Lang and facing off against new villain Kang the Conqueror",
+        "imgUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/amtwqm_family_payoff2_1-sht_v4_lg.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "The Passion of the Christ",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "releaseDate": "2004-02-25T00:00:00.000+00:00",
+        "director": "Mel Gibson",
+        "writers": [
+            "Mel Gibson",
+            "Benedict Fitzgerald"
+        ],
+        "stars": [
+            "Jim Caviezel",
+            "Monica Bellucci",
+            "Maia Morgenstern"
+        ],
+        "description": "A depiction of the last twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem. With Paul and the other disciples",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "The Adventures of Tintin",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "releaseDate": "2011-10-26T00:00:00.000+00:00",
+        "director": "Steven Spielberg",
+        "writers": [
+            "Steven Moffat",
+            " Edgar Wright",
+            "Joe Cornish"
+        ],
+        "stars": [
+            "Jamie Bell",
+            "Andy Serkis",
+            "Daniel Craig"
+        ],
+        "description": "Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDE5MDExNTQ1OF5BMl5BanBnXkFtZTcwMDIxMTM5Ng@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "Inception",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "releaseDate": "2010-07-16T00:00:00.000+00:00",
+        "director": "Christopher Nolan",
+        "writers": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Leonardo DiCaprio",
+            "Ken Watanabe",
+            "Tom Hardy"
+        ],
+        "description": "A skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible: 'inception', the implantation of another person's idea into a target's subconscious.",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+        "type": "Animation",
+        "name": "One Piece",
+        "genres": [
+            "Shonen"
+        ],
+        "releaseDate": "2023-01-10T09:56:43.847+00:00",
+        "director": "Charles B",
+        "writers": [
+            "Oda"
+        ],
+        "stars": [
+            "Luffy",
+            "Nami",
+            "Usopp",
+            "Zoro",
+            "Sanji",
+            "Chopper",
+            "Robin"
+        ],
+        "description": "A la recherche du One Piece",
+        "imgUrl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/2239c7b46b2e491ae33b33ff980e9fb1.jpe"
+    },
+    {
+        "type": "Movie",
+        "name": "The Notebook",
+        "genres": [
+            "Romance"
+        ],
+        "releaseDate": "2004-11-08T00:00:00.000+00:00",
+        "director": "Nick Cassavetes",
+        "writers": [
+            "Nicholas Sparks"
+        ],
+        "stars": [
+            "Ryan Gosling",
+            "Rachel McAdams",
+            "..."
+        ],
+        "description": "Duke reads the story of Allie and Noah, two lovers who were separated by fate, to Ms Hamilton, an old woman who suffers from dementia, on a daily basis out of his notebook.",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "type": "Movie",
+        "name": "Resident Evil",
+        "genres": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "releaseDate": "2002-03-15T00:00:00.000+00:00",
+        "director": "Paul W.S. Anderson",
+        "writers": [
+            "Paul W.S. Anderson"
+        ],
+        "stars": [
+            "Milla Jovovich",
+            "Michelle Rodriguez",
+            "Eric Mabius"
+        ],
+        "description": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg"
+    }
+]

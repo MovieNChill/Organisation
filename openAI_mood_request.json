@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-6ZgXlGDb7QDzcRKbrdlr8upOlKZlW",
+  "object": "text_completion",
+  "created": 1673963037,
+  "model": "text-davinci-003",
+  "choices": [
+    {
+      "text": "['Toy Story', 'Good Will Hunting', 'Up', 'Inside Out', 'The Shawshank Redemption']",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 22,
+    "completion_tokens": 23,
+    "total_tokens": 45
+  }
+}
